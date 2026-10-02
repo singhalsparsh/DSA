@@ -49,5 +49,14 @@
 ## String
 |  |
 | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/singhalsparsh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
