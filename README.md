@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/singhalsparsh/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/singhalsparsh/DSA/tree/master/0633-sum-of-square-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
