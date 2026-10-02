@@ -59,4 +59,20 @@
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Array
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
