@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/singhalsparsh/DSA/tree/master/0896-monotonic-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
