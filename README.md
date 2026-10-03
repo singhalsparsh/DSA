@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/singhalsparsh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -66,6 +67,7 @@
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 | [0896-monotonic-array](https://github.com/singhalsparsh/DSA/tree/master/0896-monotonic-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalsparsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
