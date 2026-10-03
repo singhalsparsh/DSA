@@ -47,12 +47,14 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/singhalsparsh/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/singhalsparsh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/singhalsparsh/DSA/tree/master/1528-shuffle-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/singhalsparsh/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/singhalsparsh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
 |  |
@@ -93,6 +95,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/singhalsparsh/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
