@@ -45,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/singhalsparsh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -62,6 +63,7 @@
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 | [0896-monotonic-array](https://github.com/singhalsparsh/DSA/tree/master/0896-monotonic-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalsparsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -76,9 +78,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalsparsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
