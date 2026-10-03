@@ -47,6 +47,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/singhalsparsh/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/singhalsparsh/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/singhalsparsh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -63,6 +64,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/singhalsparsh/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
@@ -72,6 +74,7 @@
 | [1528-shuffle-string](https://github.com/singhalsparsh/DSA/tree/master/1528-shuffle-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/singhalsparsh/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalsparsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
