@@ -79,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
