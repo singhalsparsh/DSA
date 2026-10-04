@@ -110,9 +110,14 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
