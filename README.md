@@ -48,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/singhalsparsh/DSA/tree/master/0242-valid-anagram) |
 | [2404-most-frequent-even-element](https://github.com/singhalsparsh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/singhalsparsh/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/singhalsparsh/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -55,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/singhalsparsh/DSA/tree/master/0242-valid-anagram) |
 | [1528-shuffle-string](https://github.com/singhalsparsh/DSA/tree/master/1528-shuffle-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/singhalsparsh/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/singhalsparsh/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/singhalsparsh/DSA/tree/master/0242-valid-anagram) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/singhalsparsh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
