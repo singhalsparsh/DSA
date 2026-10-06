@@ -64,6 +64,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/singhalsparsh/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/singhalsparsh/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -101,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/singhalsparsh/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singhalsparsh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/singhalsparsh/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
