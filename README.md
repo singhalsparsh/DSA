@@ -102,5 +102,6 @@
 ## String
 |  |
 | ------- |
+| [1678-goal-parser-interpretation](https://github.com/singhalsparsh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
