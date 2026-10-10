@@ -80,4 +80,12 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/singhalsparsh/DSA/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
