@@ -55,6 +55,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/singhalsparsh/DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/singhalsparsh/DSA/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
