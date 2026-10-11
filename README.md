@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/singhalsparsh/DSA/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 | [1678-goal-parser-interpretation](https://github.com/singhalsparsh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
