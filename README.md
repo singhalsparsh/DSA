@@ -84,6 +84,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/singhalsparsh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/singhalsparsh/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/singhalsparsh/DSA/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
