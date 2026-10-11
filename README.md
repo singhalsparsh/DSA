@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/singhalsparsh/DSA/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/singhalsparsh/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/singhalsparsh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
@@ -106,4 +107,8 @@
 | ------- |
 | [1678-goal-parser-interpretation](https://github.com/singhalsparsh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
