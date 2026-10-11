@@ -56,6 +56,7 @@
 | [0007-reverse-integer](https://github.com/singhalsparsh/DSA/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/singhalsparsh/DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/singhalsparsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/singhalsparsh/DSA/tree/master/2235-add-two-integers) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/singhalsparsh/DSA/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/singhalsparsh/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/singhalsparsh/DSA/tree/master/1672-richest-customer-wealth) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
