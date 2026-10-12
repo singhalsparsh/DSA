@@ -58,6 +58,7 @@
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/singhalsparsh/DSA/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/singhalsparsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/singhalsparsh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/singhalsparsh/DSA/tree/master/2413-smallest-even-multiple) |
@@ -98,6 +99,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/singhalsparsh/DSA/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
