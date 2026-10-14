@@ -97,12 +97,14 @@
 | [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/singhalsparsh/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/singhalsparsh/DSA/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/singhalsparsh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/singhalsparsh/DSA/tree/master/1518-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/singhalsparsh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
