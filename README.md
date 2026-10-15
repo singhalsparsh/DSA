@@ -86,6 +86,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +130,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -146,6 +148,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
