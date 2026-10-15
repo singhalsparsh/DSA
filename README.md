@@ -62,6 +62,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/singhalsparsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/singhalsparsh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/singhalsparsh/DSA/tree/master/2413-smallest-even-multiple) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/singhalsparsh/DSA/tree/master/2413-smallest-even-multiple) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [1920-build-array-from-permutation](https://github.com/singhalsparsh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +167,28 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
