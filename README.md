@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/singhalsparsh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -93,6 +94,7 @@
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/singhalsparsh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
