@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/singhalsparsh/DSA/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/singhalsparsh/DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -163,6 +164,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhalsparsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -173,6 +175,7 @@
 | ------- |
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/singhalsparsh/DSA/tree/master/0567-permutation-in-string) |
@@ -228,6 +231,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
