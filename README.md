@@ -91,6 +91,7 @@
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/singhalsparsh/DSA/tree/master/0238-product-of-array-except-self) |
@@ -114,6 +115,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/singhalsparsh/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/singhalsparsh/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -130,6 +132,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/singhalsparsh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Sorting
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
