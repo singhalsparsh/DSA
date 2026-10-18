@@ -83,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
@@ -96,6 +97,7 @@
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/singhalsparsh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
