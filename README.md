@@ -147,6 +147,7 @@
 | [0058-length-of-last-word](https://github.com/singhalsparsh/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/singhalsparsh/DSA/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/singhalsparsh/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhalsparsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/singhalsparsh/DSA/tree/master/1678-goal-parser-interpretation) |
