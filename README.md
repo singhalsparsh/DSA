@@ -96,6 +96,7 @@
 | ------- |
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/singhalsparsh/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/singhalsparsh/DSA/tree/master/0152-maximum-product-subarray) |
@@ -256,5 +257,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/singhalsparsh/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
