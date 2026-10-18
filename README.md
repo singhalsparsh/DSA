@@ -152,6 +152,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhalsparsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/singhalsparsh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/singhalsparsh/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/singhalsparsh/DSA/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/singhalsparsh/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2833-furthest-point-from-origin](https://github.com/singhalsparsh/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -200,6 +201,7 @@
 | [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/singhalsparsh/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/singhalsparsh/DSA/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
