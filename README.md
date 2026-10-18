@@ -151,6 +151,7 @@
 | [0567-permutation-in-string](https://github.com/singhalsparsh/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhalsparsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/singhalsparsh/DSA/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/singhalsparsh/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/singhalsparsh/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2833-furthest-point-from-origin](https://github.com/singhalsparsh/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -298,5 +299,6 @@
 ## Counting
 |  |
 | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/singhalsparsh/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2833-furthest-point-from-origin](https://github.com/singhalsparsh/DSA/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
