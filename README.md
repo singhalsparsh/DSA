@@ -56,6 +56,7 @@
 | [0007-reverse-integer](https://github.com/singhalsparsh/DSA/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/singhalsparsh/DSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -271,4 +272,24 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/singhalsparsh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
