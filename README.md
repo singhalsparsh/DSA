@@ -116,6 +116,7 @@
 | [0724-find-pivot-index](https://github.com/singhalsparsh/DSA/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/singhalsparsh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/singhalsparsh/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/singhalsparsh/DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/singhalsparsh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/singhalsparsh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
@@ -169,6 +170,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/singhalsparsh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhalsparsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/singhalsparsh/DSA/tree/master/1652-defuse-the-bomb) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/singhalsparsh/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
