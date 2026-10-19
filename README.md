@@ -160,6 +160,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/singhalsparsh/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2833-furthest-point-from-origin](https://github.com/singhalsparsh/DSA/tree/master/2833-furthest-point-from-origin) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/singhalsparsh/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhalsparsh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/singhalsparsh/DSA/tree/master/1652-defuse-the-bomb) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/singhalsparsh/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/singhalsparsh/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sorting
 |  |
 | ------- |
