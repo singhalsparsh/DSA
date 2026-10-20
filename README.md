@@ -123,6 +123,7 @@
 | [1929-concatenation-of-array](https://github.com/singhalsparsh/DSA/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/singhalsparsh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/singhalsparsh/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/singhalsparsh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Simulation
@@ -185,6 +186,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/singhalsparsh/DSA/tree/master/1768-merge-strings-alternately) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/singhalsparsh/DSA/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
 | ------- |
