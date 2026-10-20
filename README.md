@@ -66,6 +66,7 @@
 | [2413-smallest-even-multiple](https://github.com/singhalsparsh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/singhalsparsh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3886-sum-of-sortable-integers](https://github.com/singhalsparsh/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/singhalsparsh/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/singhalsparsh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3886-sum-of-sortable-integers](https://github.com/singhalsparsh/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/singhalsparsh/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -325,4 +328,8 @@
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/singhalsparsh/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/singhalsparsh/DSA/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
