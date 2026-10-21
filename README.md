@@ -166,6 +166,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/singhalsparsh/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2833-furthest-point-from-origin](https://github.com/singhalsparsh/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/singhalsparsh/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/singhalsparsh/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
