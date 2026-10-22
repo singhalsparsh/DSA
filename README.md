@@ -128,6 +128,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/singhalsparsh/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/singhalsparsh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/singhalsparsh/DSA/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/singhalsparsh/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
