@@ -59,6 +59,7 @@
 | [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/singhalsparsh/DSA/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/singhalsparsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -74,6 +75,7 @@
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/singhalsparsh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/singhalsparsh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/singhalsparsh/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/singhalsparsh/DSA/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/singhalsparsh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/singhalsparsh/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -310,10 +313,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -335,4 +340,8 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/singhalsparsh/DSA/tree/master/3886-sum-of-sortable-integers) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
