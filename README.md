@@ -59,6 +59,7 @@
 | [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/singhalsparsh/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/singhalsparsh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/singhalsparsh/DSA/tree/master/1518-water-bottles) |
@@ -223,6 +224,7 @@
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/singhalsparsh/DSA/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/singhalsparsh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/singhalsparsh/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/singhalsparsh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/singhalsparsh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/singhalsparsh/DSA/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
