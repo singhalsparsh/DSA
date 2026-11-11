@@ -104,6 +104,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/singhalsparsh/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/singhalsparsh/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/singhalsparsh/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/singhalsparsh/DSA/tree/master/0283-move-zeroes) |
