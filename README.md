@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/singhalsparsh/DSA/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/singhalsparsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/singhalsparsh/DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
@@ -111,6 +112,7 @@
 | [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/singhalsparsh/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/singhalsparsh/DSA/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/singhalsparsh/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/singhalsparsh/DSA/tree/master/0217-contains-duplicate) |
@@ -227,6 +229,7 @@
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/singhalsparsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/singhalsparsh/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
