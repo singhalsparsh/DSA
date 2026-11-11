@@ -67,6 +67,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/singhalsparsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/singhalsparsh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/singhalsparsh/DSA/tree/master/2413-smallest-even-multiple) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/singhalsparsh/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/singhalsparsh/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/singhalsparsh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/singhalsparsh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/singhalsparsh/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/singhalsparsh/DSA/tree/master/0680-valid-palindrome-ii) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/singhalsparsh/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 ## Hash Table
 |  |
 | ------- |
