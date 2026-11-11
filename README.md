@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/singhalsparsh/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/singhalsparsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/singhalsparsh/DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -107,6 +108,7 @@
 | [0046-permutations](https://github.com/singhalsparsh/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/singhalsparsh/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/singhalsparsh/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/singhalsparsh/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/singhalsparsh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhalsparsh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
