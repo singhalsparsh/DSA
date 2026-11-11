@@ -65,6 +65,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/singhalsparsh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/singhalsparsh/DSA/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/singhalsparsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singhalsparsh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2235-add-two-integers](https://github.com/singhalsparsh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/singhalsparsh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/singhalsparsh/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
@@ -131,6 +132,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/singhalsparsh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/singhalsparsh/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singhalsparsh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1652-defuse-the-bomb](https://github.com/singhalsparsh/DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/singhalsparsh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/singhalsparsh/DSA/tree/master/1920-build-array-from-permutation) |
@@ -203,6 +205,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhalsparsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhalsparsh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singhalsparsh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singhalsparsh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3886-sum-of-sortable-integers](https://github.com/singhalsparsh/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
@@ -210,6 +213,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/singhalsparsh/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/singhalsparsh/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singhalsparsh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/singhalsparsh/DSA/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 ## Hash Table
 |  |
@@ -335,6 +339,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/singhalsparsh/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singhalsparsh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Nim Game
 |  |
 | ------- |
