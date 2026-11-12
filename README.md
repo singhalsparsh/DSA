@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhalsparsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/singhalsparsh/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/singhalsparsh/DSA/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0015-3sum](https://github.com/singhalsparsh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhalsparsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/singhalsparsh/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/singhalsparsh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/singhalsparsh/DSA/tree/master/0202-happy-number) |
@@ -367,4 +369,20 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/singhalsparsh/DSA/tree/master/0877-stone-game) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/singhalsparsh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
